@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OpenCVDemo</string>
+    <string name="gray">Gray</string>
+    <string name="change">Change</string>
+    <string name="picture">picture</string>
+
+    <string name="title_activity_camera">Camera</string>
+    <string name="share">share</string>
+    <string name="delete">delete</string>
+    <string name="edit">edit</string>
+
+
+
+    <string name="photo_delete_prompt_message">photo_delete_prompt_message</string>
+    <string name="photo_delete_prompt_title"> photo_delete_prompt_title</string>
+
+
+    <string name="photo_send_extra_subject">photo_send_extra_subject</string>
+    <string name="photo_send_extra_text">photo_send_extra_text</string>
+    <string name="photo_send_chooser_title">photo_send_chooser_title</string>
+    <string name="photo_edit_chooser_title">photo_edit_chooser_title</string>
+    <string name="menu_next_camera">menu_next_camera</string>
+    <string name="menu_take_photo">menu_take_photo</string>
+    <string name="photo_error_message">failed</string>
+
+
+</resources>
